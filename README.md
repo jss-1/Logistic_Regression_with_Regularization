@@ -66,9 +66,3 @@ To train and visualize the logistic regression model, follow these steps:
 ## Results
 
 The accuracy of the trained model on the training data will be displayed, providing an evaluation of the model's performance.
-
-## Author
-
-This code was written by [Your Name].
-
-Feel free to use and modify this code for educational and personal projects. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Happy coding!
