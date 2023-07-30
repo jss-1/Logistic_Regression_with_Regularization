@@ -27,7 +27,7 @@ You can install the required dependencies using pip:
 pip install numpy matplotlib
 ```
 
-Once the dependencies are installed, you can run the `C1_W3_Logistic_Regression.py` script to train and visualize the logistic regression model with regularization.
+Once the dependencies are installed, you can run the `Model.py` script to train and visualize the logistic regression model with regularization.
 
 ## Implementation Highlights
 
@@ -57,7 +57,7 @@ To train and visualize the logistic regression model, follow these steps:
 
 1. Ensure the required dependencies are installed.
 
-2. Run the `C1_W3_Logistic_Regression.py` script.
+2. Run the `Model.py` script.
 
 3. The script will load the data, perform feature mapping (for `ex2data2.txt`), and train the model using gradient descent with regularization.
 
